@@ -1,0 +1,20 @@
+h1{
+	font-family:Helvetica;
+}
+h3{
+	font-family:Helvetica;
+}
+p{
+	font-family:Arial;
+}
+p.byline{
+	opacity:0.6;
+	font-size:14px;
+}
+p.dateline{
+	font-weight:bold;
+}
+p.caption{
+	font-family:Helvetica;
+	opacity:0.6;
+}
