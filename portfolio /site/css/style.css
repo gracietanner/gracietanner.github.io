@@ -1,0 +1,60 @@
+/*
+	font-family:'Playfair Display',serif;
+	font-family:'Shipporri Mincho'serif;
+	color:243,233,220;
+	color:192,133,82;
+	color:94,48,35;
+	color:137,87,55;
+	color:218,180,157;
+
+	color:238,226,223;
+	color:238,215,197;
+	color:200,159,156;
+	colorr:201,124,93;
+	color:179,106,94;
+*/
+
+.content{
+	padding-top:3%;
+}
+.navbar{
+	font-family:'Shippori Mincho',serif;
+	font-weight: 700;
+}
+
+h1{
+	font-family:'Playfair Display',serif;
+	padding-bottom: 3%;
+	color:rgb(94,48,35);
+} 
+p{
+	font-family:'Shippori Mincho',serif;
+	padding-bottom: 3%;
+	color:rgb(94,48,35);
+}
+h2{
+	font-family:'Playfair Display',serif;
+	font-weight:1000;
+	color:rgb(94,48,35);
+}
+h5{
+	font-family:'Playfair Display',serif;
+	color:rgb(94,48,35);
+	font-weight:900;
+}
+img{
+	width:340px;
+	height:350px;
+}
+body{
+	background-color: rgb(253,243,230);
+}
+h6{
+	font-family:'Playfair Display',serif;
+	color:rgb(94,48,35);
+	font-weight:500;
+}
+
+
+
+
