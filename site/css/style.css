@@ -21,6 +21,28 @@
 	font-family:'Shippori Mincho',serif;
 	font-weight: 700;
 }
+.about{
+	font-size: 30px;
+	padding-left: 1%;
+}
+.biography{
+	font-size: 40px;
+}
+.nav-custom{
+	background-color: rgb(218,180,157);
+}
+.articles{
+	color:rgb(94,48,35);
+}
+.hc{
+	font-size:30px;
+	padding-bottom:1%;
+	background-color: rgb(218,180,157);
+	text-align:center;
+}
+.contacts{
+	text-align: center;
+}
 
 h1{
 	font-family:'Playfair Display',serif;
@@ -42,10 +64,6 @@ h5{
 	color:rgb(94,48,35);
 	font-weight:900;
 }
-img{
-	width:340px;
-	height:350px;
-}
 body{
 	background-color: rgb(253,243,230);
 }
@@ -54,7 +72,28 @@ h6{
 	color:rgb(94,48,35);
 	font-weight:500;
 }
-
-
+li,ul{
+	font-family:'Shippori Mincho',serif;
+	padding-left: 3%;
+	color:rgb(94,48,35);
+}
+h1,h3,h2,h4{
+	font-family:'Playfair Display',serif;
+	color:rgb(94,48,35);
+	padding-left: 3%;
+} 
+h1{
+	font-size:50px;
+	padding-bottom:1%;
+	background-color: rgb(218,180,157);
+	text-align:center;
+}
+h2{
+	padding-bottom: 1.5%;
+	font-size: 40px;
+}
+h3,h4{
+	font-size: 20px;
+}
 
 
