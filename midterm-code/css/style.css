@@ -1,0 +1,29 @@
+/*
+Orange    #fc5f1a 
+Navy      #010833
+Yellow    #ffa500
+*/
+
+.body{
+	background-color: #fc5f1a; 
+	text-align: center;
+}
+.nav-custom{
+	background-color: rgb(255,255,255);
+}
+.navbar{
+	font-family:'Nunito',serif;
+	font-weight: 700;
+}
+.p{
+	font-weight: 500;
+	padding-top: 5%;
+	font-family: 'Nunito';
+	font-size: 18px;
+	text-align: center;
+}
+.h1{
+	color: #010833;
+	font-family: 'Anton';
+	font-size:60px;
+}
