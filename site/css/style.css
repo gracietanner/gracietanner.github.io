@@ -1,99 +1,31 @@
 /*
-	font-family:'Playfair Display',serif;
-	font-family:'Shipporri Mincho'serif;
-	color:243,233,220;
-	color:192,133,82;
-	color:94,48,35;
-	color:137,87,55;
-	color:218,180,157;
-
-	color:238,226,223;
-	color:238,215,197;
-	color:200,159,156;
-	colorr:201,124,93;
-	color:179,106,94;
+Orange    #fc5f1a 
+Navy      #010833
+Yellow    #ffa500
 */
 
-.content{
-	padding-top:3%;
-}
-.navbar{
-	font-family:'Shippori Mincho',serif;
-	font-weight: 700;
-}
-.about{
-	font-size: 30px;
-	padding-left: 1%;
-}
-.biography{
-	font-size: 40px;
-}
-.nav-custom{
-	background-color: rgb(218,180,157);
-}
-.articles{
-	color:rgb(94,48,35);
-}
-.hc{
-	font-size:30px;
-	padding-bottom:1%;
-	background-color: rgb(218,180,157);
-	text-align:center;
-}
-.contacts{
+.body{
+	background-color: #fc5f1a; 
 	text-align: center;
 }
 
-h1{
-	font-family:'Playfair Display',serif;
-	padding-bottom: 3%;
-	color:rgb(94,48,35);
-} 
-p{
-	font-family:'Shippori Mincho',serif;
-	padding-bottom: 3%;
-	color:rgb(94,48,35);
+.nav-custom{
+	background-color: rgb(255,255,255);
 }
-h2{
-	font-family:'Playfair Display',serif;
-	font-weight:1000;
-	color:rgb(94,48,35);
+.navbar{
+	font-family:'Nunito',serif;
+	font-weight: 700;
 }
-h5{
-	font-family:'Playfair Display',serif;
-	color:rgb(94,48,35);
-	font-weight:900;
+.p{
+	font-weight: 500;
+	padding-top: 5%;
+	font-family: 'Nunito';
+	font-size: 18px;
+	text-align: center;
 }
-body{
-	background-color: rgb(253,243,230);
+.h1{
+	color: #010833;
+	font-family: 'Anton';
+	font-size:60px;
 }
-h6{
-	font-family:'Playfair Display',serif;
-	color:rgb(94,48,35);
-	font-weight:500;
-}
-li,ul{
-	font-family:'Shippori Mincho',serif;
-	padding-left: 3%;
-	color:rgb(94,48,35);
-}
-h1,h3,h2,h4{
-	font-family:'Playfair Display',serif;
-	color:rgb(94,48,35);
-	padding-left: 3%;
-} 
-h1{
-	font-size:50px;
-	padding-bottom:1%;
-	background-color: rgb(218,180,157);
-	text-align:center;
-}
-h2{
-	padding-bottom: 1.5%;
-	font-size: 40px;
-}
-h3,h4{
-	font-size: 20px;
-}
-
 
