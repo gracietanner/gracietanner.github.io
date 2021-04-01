@@ -4,9 +4,9 @@ Navy      #010833
 Yellow    #ffa500
 */
 
-.body{
+body{
 	background-color: #fc5f1a; 
-	text-align: center;
+
 }
 .nav-custom{
 	background-color: rgb(255,255,255);
@@ -15,15 +15,52 @@ Yellow    #ffa500
 	font-family:'Nunito',serif;
 	font-weight: 700;
 }
-.p{
+.bio, .hyphen, h2{
+	text-align:center;
+}
+.hyphenated{
+	font-size:120px;
+}
+.row-graphic{
+	background-color: rgb(255,255,255);
+	padding-bottom: 5%;
+}
+.box-name{
+	background-color:#010833;
+	color:#ffa500;
+	letter-spacing: 2.5px;
+}
+.row-name{
+	background-color:#010833;
+	text-align:center;
+}
+.row-credits{
+	padding-top: 1%;
+	padding-bottom: 5%;
+}
+.box-background{
+	background-color: rgb(255,255,255);
+}
+p{
 	font-weight: 500;
 	padding-top: 5%;
-	font-family: 'Nunito';
+	font-family: 'Nunito Sans';
 	font-size: 18px;
-	text-align: center;
+
 }
-.h1{
+h1{
 	color: #010833;
 	font-family: 'Anton';
 	font-size:60px;
+	text-align: center;
 }
+h2{
+	font-family: 'Anton';
+	padding-top: 5%;
+	text-align:left;
+}
+h4{
+	color:#ffa500;
+}
+
+	
