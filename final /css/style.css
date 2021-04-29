@@ -1,0 +1,39 @@
+/*
+font-family:
+font-family: ;
+Colors
+#D62839 (bright red)
+#BA324F (dark red)
+#175676 (dark blue)
+#4BA3C3 (medium blue)
+#CCE6F4 (light blue)
+*/
+
+
+h1,h2,h3,h4,p{
+	font-family: 'Barlow Condensed';
+}
+h1{
+	text-align: center;
+	font-weight:600;
+	padding-top: 3%;
+}
+p{
+	font-weight: 300;
+	font-size: 22px;
+}
+h2{
+	font-weight:500;
+	color: #BA324F;
+}
+h3,h4{
+	font-size:16px;
+}
+h1,h4{
+	padding-bottom: 3%;
+}
+.navbar{
+	font-family:'Barlow Condensed';
+	font-weight: 700;
+	background-color:#CCE6F4;
+}
