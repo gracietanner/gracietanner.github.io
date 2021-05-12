@@ -10,7 +10,7 @@ Colors
 */
 
 
-h1,h2,h3,h4,p{
+h1,h2,p{
 	font-family: 'Barlow Condensed';
 }
 h1{
@@ -28,6 +28,7 @@ h2{
 }
 h3,h4{
 	font-size:16px;
+	font-family:'Source Code Pro';
 }
 h1,h4{
 	padding-bottom: 3%;
